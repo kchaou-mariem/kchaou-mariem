@@ -23,10 +23,10 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 
 
 <p align="left">
-<a href="https://github.com/kchaou-mariem/AI_DW_Generator"><img src="img/cards/ai-dw-generator-v6.svg" alt="AI Data Warehouse Generator" width="49%"/></a> <a href="https://github.com/kchaou-mariem/TumorLiverSegmentation"><img src="img/cards/tumor-liver-segmentation-v6.svg" alt="3D Liver Tumor Segmentation" width="49%"/></a>
-<a href="https://github.com/kchaou-mariem/dashbordSales"><img src="img/cards/dashbord-sales-v6.svg" alt="Sales Analytics Dashboard" width="49%"/></a> <a href="https://github.com/kchaou-mariem/Scrapping_TayaraTN"><img src="img/cards/scrapping-tayara-tn-v6.svg" alt="Tayara.tn Car Scraper" width="49%"/></a>
-<a href="https://github.com/kchaou-mariem/laboratory-project-management"><img src="img/cards/laboratory-project-management-v6.svg" alt="Laboratory Project Management" width="49%"/></a> <a href="https://github.com/kchaou-mariem/application_covoiturage"><img src="img/cards/application-covoiturage-v6.svg" alt="VroomVroom Carpooling" width="49%"/></a>
-<a href="https://github.com/kchaou-mariem/Planification_personnelle_intelligente"><img src="img/cards/planification-personnelle-v6.svg" alt="Smart Personal Planner" width="49%"/></a> <a href="https://github.com/kchaou-mariem/Complexe-Jammoussi---Ticketing-Management-App"><img src="img/cards/jammoussi-ticketing-v6.svg" alt="Jammoussi Ticketing App" width="49%"/></a>
+<a href="https://github.com/kchaou-mariem/AI_DW_Generator"><img src="img/cards/ai-dw-generator-v8.svg" alt="AI Data Warehouse Generator" width="49%"/></a> <a href="https://github.com/kchaou-mariem/TumorLiverSegmentation"><img src="img/cards/tumor-liver-segmentation-v8.svg" alt="3D Liver Tumor Segmentation" width="49%"/></a>
+<a href="https://github.com/kchaou-mariem/dashbordSales"><img src="img/cards/dashbord-sales-v8.svg" alt="Sales Analytics Dashboard" width="49%"/></a> <a href="https://github.com/kchaou-mariem/Scrapping_TayaraTN"><img src="img/cards/scrapping-tayara-tn-v8.svg" alt="Tayara.tn Car Scraper" width="49%"/></a>
+<a href="https://github.com/kchaou-mariem/laboratory-project-management"><img src="img/cards/laboratory-project-management-v8.svg" alt="Laboratory Project Management" width="49%"/></a> <a href="https://github.com/kchaou-mariem/application_covoiturage"><img src="img/cards/application-covoiturage-v8.svg" alt="VroomVroom Carpooling" width="49%"/></a>
+<a href="https://github.com/kchaou-mariem/Planification_personnelle_intelligente"><img src="img/cards/planification-personnelle-v8.svg" alt="Smart Personal Planner" width="49%"/></a> <a href="https://github.com/kchaou-mariem/Complexe-Jammoussi---Ticketing-Management-App"><img src="img/cards/jammoussi-ticketing-v8.svg" alt="Jammoussi Ticketing App" width="49%"/></a>
 </p>
 
 <br/>
@@ -35,9 +35,9 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 
 
 <p align="left">
-<img src="img/skills/languages-v6.svg" alt="Languages" width="49%"/> <img src="img/skills/data-bigdata-v6.svg" alt="Data &amp; Big Data" width="49%"/>
-<img src="img/skills/ai-deep-learning-v6.svg" alt="AI &amp; Deep Learning" width="49%"/> <img src="img/skills/databases-v6.svg" alt="Databases" width="49%"/>
-<img src="img/skills/full-stack-v6.svg" alt="Full-Stack" width="49%"/> <img src="img/skills/tools-cloud-v6.svg" alt="Tools &amp; Cloud" width="49%"/>
+<img src="img/skills/languages-v8.svg" alt="Languages" width="49%"/> <img src="img/skills/data-bigdata-v8.svg" alt="Data &amp; Big Data" width="49%"/>
+<img src="img/skills/ai-deep-learning-v8.svg" alt="AI &amp; Deep Learning" width="49%"/> <img src="img/skills/databases-v8.svg" alt="Databases" width="49%"/>
+<img src="img/skills/full-stack-v8.svg" alt="Full-Stack" width="49%"/> <img src="img/skills/tools-cloud-v8.svg" alt="Tools &amp; Cloud" width="49%"/>
 </p>
 
 <br/>
