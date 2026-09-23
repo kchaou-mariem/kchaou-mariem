@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Mariem Kchaou - Engineering Student in Data, BI and AI" width="100%" />
+<img src="img/header.svg" alt="Mariem Kchaou - Engineering Student in Data, BI and AI" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchaou-mariem)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchaoumariem63@gmail.com)
@@ -21,14 +21,14 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 
 <div align="center">
 
-<a href="https://github.com/kchaou-mariem/AI_DW_Generator"><img src="assets/cards/ai-dw-generator.svg" width="410" alt="AI Data Warehouse Generator" /></a>
-<a href="https://github.com/kchaou-mariem/TumorLiverSegmentation"><img src="assets/cards/tumor-liver-segmentation.svg" width="410" alt="3D Liver Tumor Segmentation" /></a>
-<a href="https://github.com/kchaou-mariem/dashbordSales"><img src="assets/cards/dashbord-sales.svg" width="410" alt="Sales Analytics Dashboard" /></a>
-<a href="https://github.com/kchaou-mariem/Scrapping_TayaraTN"><img src="assets/cards/scrapping-tayara-tn.svg" width="410" alt="Tayara.tn Car Scraper" /></a>
-<a href="https://github.com/kchaou-mariem/laboratory-project-management"><img src="assets/cards/laboratory-project-management.svg" width="410" alt="Laboratory Project Management" /></a>
-<a href="https://github.com/kchaou-mariem/application_covoiturage"><img src="assets/cards/application-covoiturage.svg" width="410" alt="VroomVroom Carpooling" /></a>
-<a href="https://github.com/kchaou-mariem/Planification_personnelle_intelligente"><img src="assets/cards/planification-personnelle.svg" width="410" alt="Smart Personal Planner" /></a>
-<a href="https://github.com/kchaou-mariem/Complexe-Jammoussi---Ticketing-Management-App"><img src="assets/cards/jammoussi-ticketing.svg" width="410" alt="Jammoussi Ticketing App" /></a>
+<a href="https://github.com/kchaou-mariem/AI_DW_Generator"><img src="img/cards/ai-dw-generator.svg" width="410" alt="AI Data Warehouse Generator" /></a>
+<a href="https://github.com/kchaou-mariem/TumorLiverSegmentation"><img src="img/cards/tumor-liver-segmentation.svg" width="410" alt="3D Liver Tumor Segmentation" /></a>
+<a href="https://github.com/kchaou-mariem/dashbordSales"><img src="img/cards/dashbord-sales.svg" width="410" alt="Sales Analytics Dashboard" /></a>
+<a href="https://github.com/kchaou-mariem/Scrapping_TayaraTN"><img src="img/cards/scrapping-tayara-tn.svg" width="410" alt="Tayara.tn Car Scraper" /></a>
+<a href="https://github.com/kchaou-mariem/laboratory-project-management"><img src="img/cards/laboratory-project-management.svg" width="410" alt="Laboratory Project Management" /></a>
+<a href="https://github.com/kchaou-mariem/application_covoiturage"><img src="img/cards/application-covoiturage.svg" width="410" alt="VroomVroom Carpooling" /></a>
+<a href="https://github.com/kchaou-mariem/Planification_personnelle_intelligente"><img src="img/cards/planification-personnelle.svg" width="410" alt="Smart Personal Planner" /></a>
+<a href="https://github.com/kchaou-mariem/Complexe-Jammoussi---Ticketing-Management-App"><img src="img/cards/jammoussi-ticketing.svg" width="410" alt="Jammoussi Ticketing App" /></a>
 
 </div>
 
@@ -93,4 +93,4 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 </picture>
 </div>
 
-<img src="assets/footer.svg" alt="footer" width="100%" />
+<img src="img/footer.svg" alt="footer" width="100%" />
