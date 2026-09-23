@@ -34,54 +34,16 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 
 ## 🛠️ Skills
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20PL--SQL-336791?style=flat-square)
+<div align="center">
 
-**Data & Big Data**
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
-![HDFS](https://img.shields.io/badge/HDFS-555555?style=flat-square)
-![YARN](https://img.shields.io/badge/YARN-555555?style=flat-square)
-![ZooKeeper](https://img.shields.io/badge/ZooKeeper-555555?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL-1f6feb?style=flat-square)
-![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-1f6feb?style=flat-square)
-![Dimensional Modeling](https://img.shields.io/badge/Dimensional%20Modeling-1f6feb?style=flat-square)
+<img src="img/skills/languages.svg" width="410" alt="Languages: Python, Java, C, C#, JavaScript, PHP, SQL / PL-SQL" />
+<img src="img/skills/data-bigdata.svg" width="410" alt="Data & Big Data: Hadoop, Hive, HDFS, YARN, ZooKeeper, ETL, Data Warehousing, Dimensional Modeling" />
+<img src="img/skills/ai-deep-learning.svg" width="410" alt="AI & Deep Learning: PyTorch, Scikit-learn, Pandas, NumPy, U-Net, Attention Gates, NiBabel, 3D Image Processing" />
+<img src="img/skills/databases.svg" width="410" alt="Databases: SQL Server, MySQL, Oracle, MongoDB" />
+<img src="img/skills/full-stack.svg" width="410" alt="Full-Stack: Angular, React, NestJS, Spring Boot, ASP.NET, Flutter" />
+<img src="img/skills/tools-cloud.svg" width="410" alt="Tools & Cloud: Git, GitHub, Linux, Kaggle, Vast.ai GPU Cloud" />
 
-**AI & Deep Learning**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![U-Net](https://img.shields.io/badge/U--Net-6f42c1?style=flat-square)
-![Attention Gates](https://img.shields.io/badge/Attention%20Gates-6f42c1?style=flat-square)
-![NiBabel](https://img.shields.io/badge/NiBabel-555555?style=flat-square)
-
-**Databases**
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Full-Stack**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-**Tools & Cloud**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Vast.ai](https://img.shields.io/badge/Vast.ai%20GPU%20Cloud-555555?style=flat-square)
+</div>
 
 ## 🐍 Contribution snake
 
