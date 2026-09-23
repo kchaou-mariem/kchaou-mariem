@@ -3,7 +3,7 @@
 <img src="img/banner.svg" alt="Mariem Kchaou - Engineering Student in Data, BI and AI" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchaou-mariem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariem.kchaou@enetcom.u-sfax.tn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchaoumariem63@gmail.com)
 
 </div>
 
@@ -19,31 +19,20 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 
 ## 🚀 Projects
 
-<div align="center">
-
-<a href="https://github.com/kchaou-mariem/AI_DW_Generator"><img src="img/cards/ai-dw-generator.svg" width="410" alt="AI Data Warehouse Generator" /></a>
-<a href="https://github.com/kchaou-mariem/TumorLiverSegmentation"><img src="img/cards/tumor-liver-segmentation.svg" width="410" alt="3D Liver Tumor Segmentation" /></a>
-<a href="https://github.com/kchaou-mariem/dashbordSales"><img src="img/cards/dashbord-sales.svg" width="410" alt="Sales Analytics Dashboard" /></a>
-<a href="https://github.com/kchaou-mariem/Scrapping_TayaraTN"><img src="img/cards/scrapping-tayara-tn.svg" width="410" alt="Tayara.tn Car Scraper" /></a>
-<a href="https://github.com/kchaou-mariem/laboratory-project-management"><img src="img/cards/laboratory-project-management.svg" width="410" alt="Laboratory Project Management" /></a>
-<a href="https://github.com/kchaou-mariem/application_covoiturage"><img src="img/cards/application-covoiturage.svg" width="410" alt="VroomVroom Carpooling" /></a>
-<a href="https://github.com/kchaou-mariem/Planification_personnelle_intelligente"><img src="img/cards/planification-personnelle.svg" width="410" alt="Smart Personal Planner" /></a>
-<a href="https://github.com/kchaou-mariem/Complexe-Jammoussi---Ticketing-Management-App"><img src="img/cards/jammoussi-ticketing.svg" width="410" alt="Jammoussi Ticketing App" /></a>
-
-</div>
+<table>
+<tr><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/AI_DW_Generator"><img src="img/cards/ai-dw-generator.svg" alt="AI Data Warehouse Generator" width="100%"/></a></td><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/TumorLiverSegmentation"><img src="img/cards/tumor-liver-segmentation.svg" alt="3D Liver Tumor Segmentation" width="100%"/></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/dashbordSales"><img src="img/cards/dashbord-sales.svg" alt="Sales Analytics Dashboard" width="100%"/></a></td><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/Scrapping_TayaraTN"><img src="img/cards/scrapping-tayara-tn.svg" alt="Tayara.tn Car Scraper" width="100%"/></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/laboratory-project-management"><img src="img/cards/laboratory-project-management.svg" alt="Laboratory Project Management" width="100%"/></a></td><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/application_covoiturage"><img src="img/cards/application-covoiturage.svg" alt="VroomVroom Carpooling" width="100%"/></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/Planification_personnelle_intelligente"><img src="img/cards/planification-personnelle.svg" alt="Smart Personal Planner" width="100%"/></a></td><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/Complexe-Jammoussi---Ticketing-Management-App"><img src="img/cards/jammoussi-ticketing.svg" alt="Jammoussi Ticketing App" width="100%"/></a></td></tr>
+</table>
 
 ## 🛠️ Skills
 
-<div align="center">
-
-<img src="img/skills/languages.svg" width="410" alt="Languages: Python, Java, C, C#, JavaScript, PHP, SQL / PL-SQL" />
-<img src="img/skills/data-bigdata.svg" width="410" alt="Data & Big Data: Hadoop, Hive, HDFS, YARN, ZooKeeper, ETL, Data Warehousing, Dimensional Modeling" />
-<img src="img/skills/ai-deep-learning.svg" width="410" alt="AI & Deep Learning: PyTorch, Scikit-learn, Pandas, NumPy, U-Net, Attention Gates, NiBabel, 3D Image Processing" />
-<img src="img/skills/databases.svg" width="410" alt="Databases: SQL Server, MySQL, Oracle, MongoDB" />
-<img src="img/skills/full-stack.svg" width="410" alt="Full-Stack: Angular, React, NestJS, Spring Boot, ASP.NET, Flutter" />
-<img src="img/skills/tools-cloud.svg" width="410" alt="Tools & Cloud: Git, GitHub, Linux, Kaggle, Vast.ai GPU Cloud" />
-
-</div>
+<table>
+<tr><td width="50%" valign="top"><img src="img/skills/languages.svg" alt="Languages" width="100%"/></td><td width="50%" valign="top"><img src="img/skills/data-bigdata.svg" alt="Data &amp; Big Data" width="100%"/></td></tr>
+<tr><td width="50%" valign="top"><img src="img/skills/ai-deep-learning.svg" alt="AI &amp; Deep Learning" width="100%"/></td><td width="50%" valign="top"><img src="img/skills/databases.svg" alt="Databases" width="100%"/></td></tr>
+<tr><td width="50%" valign="top"><img src="img/skills/full-stack.svg" alt="Full-Stack" width="100%"/></td><td width="50%" valign="top"><img src="img/skills/tools-cloud.svg" alt="Tools &amp; Cloud" width="100%"/></td></tr>
+</table>
 
 ## 🐍 Contribution snake
 
