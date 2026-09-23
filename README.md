@@ -16,8 +16,6 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 - 🖥️ **Build:** full-stack apps with Angular, NestJS, React, Spring Boot and ASP.NET
 - 🔧 **Now:** summer 2026 internship at **DASHMASTER**, building an AI-assisted data warehouse generator
 - 🎯 **Next:** a final-year internship in data engineering, BI or AI
-- 🏅 **Track record:** admitted directly into 2nd year at ENET'COM (**3rd / 55**), **1st** of the class in my M1 in Data Science & Engineering
-- 🌍 **Languages:** Arabic (native), French and English (working proficiency)
 
 ## 🚀 Projects
 
