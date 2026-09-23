@@ -3,7 +3,7 @@
 <img src="img/banner.svg" alt="Mariem Kchaou - Engineering Student in Data, BI and AI" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchaou-mariem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchaoumariem63@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariem.kchaou@enetcom.u-sfax.tn)
 
 </div>
 
