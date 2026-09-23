@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="img/header.svg" alt="Mariem Kchaou - Engineering Student in Data, BI and AI" width="100%" />
+<img src="img/banner.svg" alt="Mariem Kchaou - Engineering Student in Data, BI and AI" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kchaou-mariem)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariem.kchaou@enetcom.u-sfax.tn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kchaoumariem63@gmail.com)
 
 </div>
 
@@ -55,4 +55,4 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 </picture>
 </div>
 
-<img src="img/footer.svg" alt="footer" width="100%" />
+<img src="img/outro.svg" alt="footer" width="100%" />
