@@ -7,7 +7,8 @@
 
 </div>
 
-## 👩‍💻 About me
+<img src="img/sec-about.svg" alt="About me" width="100%" />
+
 
 Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM Sfax**, drawn to problems where raw, messy data has to become something a team can actually decide with.
 
@@ -17,7 +18,10 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 - 🔧 **Now:** summer 2026 internship at **DASHMASTER**, building an AI-assisted data warehouse generator
 - 🎯 **Next:** a final-year internship in data engineering, BI or AI
 
-## 🚀 Projects
+<br/>
+
+<img src="img/sec-projects.svg" alt="Projects" width="100%" />
+
 
 <table>
 <tr><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/AI_DW_Generator"><img src="img/cards/ai-dw-generator.svg" alt="AI Data Warehouse Generator" width="100%"/></a></td><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/TumorLiverSegmentation"><img src="img/cards/tumor-liver-segmentation.svg" alt="3D Liver Tumor Segmentation" width="100%"/></a></td></tr>
@@ -26,7 +30,10 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 <tr><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/Planification_personnelle_intelligente"><img src="img/cards/planification-personnelle.svg" alt="Smart Personal Planner" width="100%"/></a></td><td width="50%" valign="top"><a href="https://github.com/kchaou-mariem/Complexe-Jammoussi---Ticketing-Management-App"><img src="img/cards/jammoussi-ticketing.svg" alt="Jammoussi Ticketing App" width="100%"/></a></td></tr>
 </table>
 
-## 🛠️ Skills
+<br/>
+
+<img src="img/sec-skills.svg" alt="Skills" width="100%" />
+
 
 <table>
 <tr><td width="50%" valign="top"><img src="img/skills/languages.svg" alt="Languages" width="100%"/></td><td width="50%" valign="top"><img src="img/skills/data-bigdata.svg" alt="Data &amp; Big Data" width="100%"/></td></tr>
@@ -34,7 +41,10 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 <tr><td width="50%" valign="top"><img src="img/skills/full-stack.svg" alt="Full-Stack" width="100%"/></td><td width="50%" valign="top"><img src="img/skills/tools-cloud.svg" alt="Tools &amp; Cloud" width="100%"/></td></tr>
 </table>
 
-## 🐍 Contribution snake
+<br/>
+
+<img src="img/sec-activity.svg" alt="Activity" width="100%" />
+
 
 <div align="center">
 <picture>
