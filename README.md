@@ -15,7 +15,7 @@ Future engineer in **Data Engineering & Decision Support Systems** at **ENET'COM
 - 🖥️ **Build:** full-stack apps with Angular, NestJS, React, Spring Boot and ASP.NET
 - 🔧 **Now:** summer 2026 internship at **DASHMASTER**, building an AI-assisted data warehouse generator
 - 🎯 **Next:** a final-year internship in data engineering, BI or AI
-- 📫 **Contact:** <a href="https://www.linkedin.com/in/kchaou-mariem"><picture><source media="(prefers-color-scheme: dark)" srcset="img/icon-linkedin-v7-dark.svg"/><img src="img/icon-linkedin-v7.svg" height="18" alt="LinkedIn" align="absmiddle"/></picture></a> [LinkedIn](https://www.linkedin.com/in/kchaou-mariem) &nbsp;·&nbsp; <a href="mailto:kchaoumariem63@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/icon-email-v7-dark.svg"/><img src="img/icon-email-v7.svg" height="18" alt="Email" align="absmiddle"/></picture></a> [kchaoumariem63@gmail.com](mailto:kchaoumariem63@gmail.com)
+- 📫 **Contact:** <a href="https://www.linkedin.com/in/kchaou-mariem"><picture><source media="(prefers-color-scheme: dark)" srcset="img/icon-linkedin-v7-dark.svg"/><img src="img/icon-linkedin-v7.svg" height="18" alt="LinkedIn" align="absmiddle"/></picture></a> [LinkedIn](https://www.linkedin.com/in/kchaou-mariem) &nbsp;·&nbsp; <a href="mailto:kchaoumariem63@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="img/icon-email-v7-dark.svg"/><img src="img/icon-email-v7.svg" height="18" alt="Email" align="absmiddle"/></picture></a> [mariem.kchaou@enetcom.u-sfax.tn](mailto:mariem.kchaou@enetcom.u-sfax.tn)
 
 <br/>
 
